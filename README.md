@@ -1,5 +1,5 @@
 # Aplikasi Penjualan    
 
-## Nama     : Andreas Panjaitan
+## Nama     : John David Willy Panjaitan
 ## Kelas    : TI.20.RPL-1
 ## NIM      : 312110594
